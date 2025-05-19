@@ -1,0 +1,90 @@
+.gallery img{
+    width: 100%;
+    
+}
+.gallery img:hover{
+    color: blueviolet;
+}
+h2{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(10, 48, 119);
+}
+h3{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(3, 66, 182);
+}
+h4{
+    font-family: Impact, fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(10, 48, 119);
+}
+#Menu{
+    width: 100%;
+    height: 40px;
+    text-decoration-color: #368BC1;
+    padding-top: 12px;
+    position: fixed;
+    text-align: left;
+    
+
+}
+#Menu a{
+    color: rgb(0, 183, 255);
+    font-family: Verdan, Tahoma, sans-serif, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    
+}
+#Menu a:hover{
+    color: darkblue;
+}
+#About{
+    background-color: beige;
+    width: 100%;
+    height: fit-content;
+    font-size: larger;
+    color: rgb(0, 183, 255);
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#Contacts{
+    background-image: url('IMG-20231222-WA0007.jpg');
+    width: 100%;
+}
+#Contacts p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 18px;
+    color: ivory;
+}
+#av1{
+    background-color: #368BC1;
+}
+#av2{
+    background-color: #AA4203;
+}
+#av3{
+    background-color: #315c06;
+}
+#av4{
+    background-color: #C9B0D0;
+}
+#av5{
+    background-color: #0A3161;
+}
+#av6{
+    background-color: #C0C0C0;
+}
